@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "selenium-webdriver": "^4.4.0",
+    "wd": "^1.14.0"
+  }
+}
